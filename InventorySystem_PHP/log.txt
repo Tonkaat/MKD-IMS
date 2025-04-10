@@ -1,0 +1,7 @@
+Received request: {"borrow_id":"19"}
+Decoded JSON: Array
+(
+    [borrow_id] => 19
+)
+
+Processing borrow_id: 19
